@@ -1,3 +1,9 @@
+# Chan Ho Park 🫠
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-hano&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wdq0304)](https://solved.ac/wdq0304/)
+
+# Git Farm 🌱
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/c-hano"
@@ -5,3 +11,11 @@
   height="300"
 />
 </a>
+
+# Skills
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+
